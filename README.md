@@ -1,2 +1,2 @@
 # Gato (Tic-tac-toe)
-Juego de gato (o tres en línea) de un solo jugador o multijugador en Python.
+Juego de gato (o Tic-tac-toe) de un solo jugador o multijugador en Python.
